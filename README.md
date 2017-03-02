@@ -1,2 +1,2 @@
 # Projects
-In this file are all open projects I am currently working on.
+In this directory are all open projects I am currently working on.
